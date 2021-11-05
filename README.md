@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning css, javascript and python
 - 💞️ I’m looking to collaborate on projects for certain software
-- 📫 How to reach me ...
+- 📫 You can reach me by emailing me(my email is rg16gaming@gmail.com)
 
 <!---
 ROBOGAMER1516/ROBOGAMER1516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
