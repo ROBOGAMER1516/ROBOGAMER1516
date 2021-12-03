@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @The Dark Diamond
-- 👀 I’m interested in coding
+- 👀 I’m interested in colaborating in projects with other developers
 - 🌱 I’m currently learning css, javascript and python
 - 💞️ I’m looking to collaborate on projects and possibly get a team of developers
