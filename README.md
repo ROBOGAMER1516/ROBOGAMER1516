@@ -2,3 +2,4 @@
 - 👀 I’m interested in colaborating in projects with other developers
 - 🌱 I’m currently learning css, javascript and python
 - 💞️ I’m looking to collaborate on projects and possibly get a team of developers
+- You can reach me by emailing me at thedarkdiamond24@gmail.com
